@@ -1,0 +1,121 @@
+<div align="center">
+
+# XXD Panel 121｜Lifestyle Doodle Editorial
+
+Turn a small everyday emotion into a spacious lifestyle illustration with thoughtful image–text composition.
+
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+
+</div>
+
+## Sample works
+
+The samples below use different original references. Panel 121 generated each one independently in a single pass, and AI metadata has been removed. Landscape samples are strict 50:50 left–right pairs with reality on the left and design on the right; portrait samples are strict 50:50 top–bottom pairs with reality above and design below.
+
+**16:9 landscape · left–right 50:50**
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+**3:4 portrait · top–bottom 50:50**
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+These samples use short, intelligent English copy grounded in each original photograph.
+
+## Best-fit situations and problems solved
+
+An everyday photograph can hold a compelling pose or relationship yet lose its focus to an ordinary composition and a busy background. **Panel 121** preserves photographic identity, extracts the most recognisable subject, and rebuilds it through relaxed marker-like doodles, edited handwriting, and exceptionally abundant whitespace.
+
+### Best for
+
+- Turning people, everyday objects, and lifestyle scenes into independent-magazine or lifestyle editorial illustrations.
+- Preserving contour, pose, and narrative relationships while removing most background and secondary objects.
+- Combining the ease of naïve drawing with mature control of graphics, text, and empty space.
+- Consistent top-bottom, left-right, design-only, multi-ratio, wallpaper, or directory-batch delivery.
+
+### What it solves
+
+- Subtraction, rearrangement, cropping, and scale changes give ordinary photographs a new visual focus.
+- Graphics and text share an invisible grid, visual axes, and reading path instead of a sentence stacked over a person.
+- Small graphic forms let whitespace create distance, pauses, and breathing room without scattered filler icons.
+- Comparisons keep exactly two 50:50 regions and generate directly from the current original, preventing third bands and second stylisation passes.
+
+## Original prompt · five languages
+
+[简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Chinese file preserves the user's original prompt verbatim and is the sole runtime creative and aesthetic authority. The other four files are complete, faithful reading translations and never rewrite the generation instructions.
+
+**Signature:** naïve lifestyle illustration · marker/crayon/oil-pastel texture · invisible grid · integrated image–text composition · light natural handwriting · source-derived limited palette · exceptionally abundant whitespace
+
+## Quick fit check
+
+| What you need to know | What Panel 121 gives you |
+|---|---|
+| An ordinary photographic composition? | Redirects position, cropping, and scale while keeping the most recognisable relationships. |
+| Will doodles feel childish? | Pairs naïve drawing with mature composition, avoiding children's scrapbooks, cheap cartoons, and templates. |
+| Is text always centred? | Uses contours, movement, shoulder lines, and negative space to create asymmetric relationships. |
+| Flexible delivery? | Four modes, common ratios, exact pixels, and isolated directory batches. |
+
+## Transformation logic
+
+```text
+understand subject and narrative → remove most background → simplify into relaxed marker-like forms → rework scale and cropping → establish an invisible grid and reading path → place minimal handwriting → finish the rhythm with exceptional whitespace
+```
+
+## Recognisable finished traits
+
+- The photographic region retains identity, structure, pose, natural lighting, and colour atmosphere with only subtle grading.
+- Simplified symbolic forms use slightly shaky, interrupted, imperfect lines; colour overshoots, exposed paper, and handmade errors are welcome.
+- Complete perspective and fine realism yield to active removal of background and irrelevant objects.
+- Small subjects sit off-centre, near edges, suspended, or partially cropped; empty space shapes positive/negative forms and distances.
+- Image and text form one composition; light natural handwriting varies in width and pressure while spacing stays editorially controlled.
+- Soft, bright, limited colours come from the source; warm white or an extremely pale mixed hue creates broad breathing space.
+
+## Four output modes
+
+- `top-bottom`: exactly two full-width regions, reality above and design below, 50% each.
+- `left-right`: exactly two full-height regions, reality left and design right, 50% each; it never rotates into a top-bottom layout.
+- `design-only`: the full canvas contains only Panel 121's designed translation; the photograph remains a non-visible reference.
+- `wallpaper-pack`: creates complete artworks for phone, iPad, desktop, and watch, either `linked` as a coherent family or `independent` as four separate works.
+
+Modes and sizes may be combined. Supported sizes include `1:1`, `3:4`, `4:3`, `4:5`, `5:4`, `2:3`, `3:2`, `9:16`, `16:9`, `21:9`, `5:7`, `7:5`, and exact pixels. Text can be prompt-generated, user-exact, or absent. A directory is inventoried recursively and every source is isolated while sharing one set of delivery settings; final PNG files remain flat in one fresh task directory.
+
+## Getting started
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-121.git
+npx skills add https://github.com/nevertoday/xxd-panel-121 --skill xxd-panel-121
+```
+
+Restart the agent session after installation, then invoke `$xxd-panel-121`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
+
+Common examples:
+
+```text
+/xxd-panel-121 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale en-US
+/xxd-panel-121 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
+/xxd-panel-121 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-121 ./photos --mode design-only --size auto,3:4 --text prompt --locale ja-JP
+```
+
+See [SKILL.md](SKILL.md) for the full runtime contract and the [English](references/xxd-panel-121-prompt.en.md) or [Chinese](references/xxd-panel-121-prompt.zh-CN.md) runtime adapter.
+
+## License
+
+This project—including the Skill, prompts, scripts, documentation, and accompanying sample images—is licensed under the **PolyForm Noncommercial License 1.0.0**. See [LICENSE](LICENSE) for the full legal text and <https://polyformproject.org/licenses/noncommercial/1.0.0> for the official page.
+
+In plain language:
+
+- Individuals may use it for study, research, experimentation, testing, hobby projects, and private entertainment. Charities, educational institutions, public research, safety or health organisations, environmental organisations, and government institutions may also use it.
+- For **noncommercial purposes**, you may use, copy, modify, create derivative works, and share it. When sharing, you must also provide this license (or the link above) and every `Required Notice:` statement supplied by the author.
+- It may not be used in commercial products or services, paid delivery, sale of access or licences, or any use expected to lead to commercial application. Obtain separate written permission from the copyright holder before commercial use.
+- The agreement grants only the copyright licence and limited patent licence expressly stated. It grants no trademarks, brand names, or other unstated rights, and you may not sublicense your licence to others.
+- After written notice of a violation, you must return to compliance and take practical remedial steps within 32 days, or the licences terminate immediately. A written patent-infringement claim also terminates the patent licence.
+- The material is provided “as is”, without warranty to the extent permitted by law. Users bear the risks and potential losses arising from its use.
