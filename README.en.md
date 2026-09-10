@@ -40,6 +40,15 @@ An everyday photograph can hold a compelling pose or relationship yet lose its f
 - Small graphic forms let whitespace create distance, pauses, and breathing room without scattered filler icons.
 - Comparisons keep exactly two 50:50 regions and generate directly from the current original, preventing third bands and second stylisation passes.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -56,21 +65,6 @@ The Chinese file preserves the user's original prompt verbatim and is the sole r
 | Will doodles feel childish? | Pairs naïve drawing with mature composition, avoiding children's scrapbooks, cheap cartoons, and templates. |
 | Is text always centred? | Uses contours, movement, shoulder lines, and negative space to create asymmetric relationships. |
 | Flexible delivery? | Four modes, common ratios, exact pixels, and isolated directory batches. |
-
-## Transformation logic
-
-```text
-understand subject and narrative → remove most background → simplify into relaxed marker-like forms → rework scale and cropping → establish an invisible grid and reading path → place minimal handwriting → finish the rhythm with exceptional whitespace
-```
-
-## Recognisable finished traits
-
-- The photographic region retains identity, structure, pose, natural lighting, and colour atmosphere with only subtle grading.
-- Simplified symbolic forms use slightly shaky, interrupted, imperfect lines; colour overshoots, exposed paper, and handmade errors are welcome.
-- Complete perspective and fine realism yield to active removal of background and irrelevant objects.
-- Small subjects sit off-centre, near edges, suspended, or partially cropped; empty space shapes positive/negative forms and distances.
-- Image and text form one composition; light natural handwriting varies in width and pressure while spacing stays editorially controlled.
-- Soft, bright, limited colours come from the source; warm white or an extremely pale mixed hue creates broad breathing space.
 
 ## Four output modes
 
