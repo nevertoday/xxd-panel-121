@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 121｜Lifestyle Doodle Editorial: re-stages the key subject, pose and story of a photo as a naive hand-drawn lifestyle doodle with a mature editorial layout — simplified, characterful shapes in shaky, broken marker lines with crayon or oil-pastel fill that overruns and leaves white, the drawing small inside very large whitespace, and words composed with the picture on a hidden grid: a short line plus tiny supporting text in light handwriting that hugs an outline, follows a gesture or sits in negative space instead of a centred caption, in soft bright colours from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-121 or asks for marker doodle, naive lifestyle illustration or editorial image-and-text layout from a photo.",
+  "short_description": "生活涂鸦编排志：把照片画成马克笔蜡笔的稚拙涂鸦，图文一起编排，留白极多",
+  "zh-CN": {
+    "name": "生活涂鸦编排志",
+    "tagline": "把日常照片里的一点情绪，画成留白充足、图文搭配聪明的生活插画。",
+    "look": "只留下最好认的主体、姿态和小故事，造型简化、符号化、有个性，线条是轻微抖动、断续的马克笔线，用马克笔、蜡笔或油画棒自然涂色，允许越线和露白。画只占画面一小部分，其余是大片有意识的留白。文字和图一起排版：先有一条看不见的网格和阅读路径，再让一句稍大的短句和几个小字贴着主体轮廓、顺着动作方向、对齐头部或肩线，或者落进大块空白里，而不是“上面一句话、下面一个人”的居中结构。字体是轻巧、略有笔压变化的手写字。颜色从照片里取，调成奶油黄、蜜桃粉、珊瑚红、天空蓝、嫩绿、薰衣草紫这类柔和明快的色。",
+    "traits": [
+      "稚拙马克笔蜡笔",
+      "抖动断线",
+      "隐形网格",
+      "图文整合",
+      "成熟编辑构图",
+      "活泼柔色留白"
+    ],
+    "good": [
+      "有一个人物或动物、带一点情绪和动作的照片：伸懒腰的人、捧着咖啡的手、跳起来的狗",
+      "生活方式类的日常瞬间：晨跑、做饭、读书、骑车上班",
+      "想做成杂志插画、社交配图或带一句话的海报的照片"
+    ],
+    "poor": [
+      "想把所有对象和背景都保留的照片：大合影、全景街景",
+      "需要写实比例或精细描绘的需求：产品图、证件照",
+      "想要主体居中加文字居中的固定模板、满版文字或儿童手帐感的需求"
+    ]
+  },
+  "en": {
+    "name": "Lifestyle Doodle Editorial",
+    "tagline": "Turns a small everyday emotion into a spacious lifestyle illustration where picture and words work together.",
+    "look": "Only the most recognisable subject, pose and little story stay, simplified into symbolic shapes with personality, drawn in slightly shaky, broken marker lines and coloured naturally in marker, crayon or oil pastel that may run over the line and leave white. The drawing takes up only a small part of the frame; the rest is wide, deliberate whitespace. Words and picture are laid out as one: a hidden grid and reading path come first, then a slightly larger short line and a few tiny words hug the subject's outline, follow its movement, align with the head or shoulders or drop into a big open space, rather than a centred line above a centred figure. The lettering is a light, natural handwriting with some variation in pressure. Colours from the photo become soft, bright shades like cream yellow, peach, coral, sky blue, fresh green and lavender.",
+    "traits": [
+      "Naive marker and crayon",
+      "Shaky broken lines",
+      "Hidden grid",
+      "Integrated image and text",
+      "Mature editorial layout",
+      "Lively soft colours and space"
+    ],
+    "good": [
+      "Photos of a person or animal with a bit of mood and movement: someone stretching, hands holding a coffee, a dog mid-jump",
+      "Everyday lifestyle moments: a morning run, cooking, reading, cycling to work",
+      "Photos you want as a magazine illustration, social media image or poster with one line of text"
+    ],
+    "poor": [
+      "Photos where every object and the background must stay: large group shots, panoramic street views",
+      "Jobs that need realistic proportion or fine rendering: product shots, ID photos",
+      "Requests for a fixed centred-figure, centred-caption template, wall-to-wall text or a children's journal look"
+    ]
+  },
+  "ja": {
+    "name": "暮らしのドゥードル編集帖",
+    "tagline": "日常写真のちょっとした気持ちを、余白がたっぷりで絵と言葉の関係が気の利いた暮らしのイラストにします。",
+    "look": "残すのはいちばんわかりやすい主役と姿勢、小さな物語だけ。形は簡略化され記号的で個性があり、線は少し震えて途切れるマーカーの線、色はマーカー、クレヨン、オイルパステルで自然に塗り、はみ出しや塗り残しも許します。絵は画面のごく一部で、残りは意図した広い余白です。文字と絵はひとつとして組まれます。まず見えないグリッドと読む道すじを決め、少し大きめの短い一文と小さな文字が、主役の輪郭に寄り添ったり、動きの向きに沿ったり、頭や肩の線に揃えたり、大きな余白に置かれたりします。「上に一文、下に人物」という中央揃えの形にはしません。文字は軽やかで自然な、筆圧に少し変化のある手書きです。色は写真から取り、クリームイエロー、ピーチ、コーラル、空色、若草色、ラベンダーのような柔らかく明るい色にします。",
+    "traits": [
+      "素朴なマーカーとクレヨン",
+      "震えて途切れる線",
+      "見えないグリッド",
+      "絵と文字の一体化",
+      "大人びた編集レイアウト",
+      "明るく柔らかな色と余白"
+    ],
+    "good": [
+      "少し気分や動きのある人物や動物の写真：伸びをする人、コーヒーを持つ手、ジャンプする犬",
+      "暮らしのひとこま：朝のランニング、料理、読書、自転車通勤",
+      "雑誌のイラスト、SNS の画像、一文入りのポスターにしたい写真"
+    ],
+    "poor": [
+      "すべての物と背景を残したい写真：大人数の集合写真、街並みのパノラマ",
+      "写実的な比率や細密な描写が必要な用途：商品写真、証明写真",
+      "主役も文字も中央に置く決まったテンプレート、画面いっぱいの文字、子どもの手帳風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "라이프스타일 두들 편집지",
+    "tagline": "일상 사진 속 작은 감정을 여백이 넉넉하고 그림과 글이 영리하게 어우러진 생활 일러스트로 바꿉니다.",
+    "look": "가장 알아보기 쉬운 주인공과 자세, 작은 이야기만 남기고, 형태는 단순하고 기호적이며 개성 있게 다듬습니다. 선은 살짝 떨리고 끊기는 마커 선이며, 마커, 크레용, 오일 파스텔로 자연스럽게 칠해 선을 넘거나 흰 부분이 남아도 괜찮습니다. 그림은 화면의 작은 부분만 차지하고 나머지는 의도한 넓은 여백입니다. 글과 그림은 하나로 배치됩니다. 먼저 보이지 않는 격자와 읽는 동선을 정한 뒤, 조금 큰 짧은 문장과 작은 글자 몇 개가 주인공의 윤곽에 붙거나, 동작 방향을 따르거나, 머리나 어깨선에 맞추거나, 큰 빈 공간에 놓입니다. '위에는 한 문장, 아래에는 인물'인 가운데 정렬 구조는 쓰지 않습니다. 글씨는 가볍고 자연스러운, 필압 변화가 조금 있는 손글씨입니다. 색은 사진에서 가져와 크림 옐로, 피치, 코럴, 하늘색, 연둣빛, 라벤더 같은 부드럽고 밝은 색으로 바꿉니다.",
+    "traits": [
+      "서툰 마커와 크레용",
+      "떨리고 끊기는 선",
+      "보이지 않는 격자",
+      "그림과 글의 통합",
+      "성숙한 편집 구도",
+      "밝고 부드러운 색과 여백"
+    ],
+    "good": [
+      "약간의 감정과 동작이 있는 사람이나 동물 사진: 기지개 켜는 사람, 커피를 든 손, 점프하는 강아지",
+      "라이프스타일 일상의 순간: 아침 달리기, 요리, 독서, 자전거 출근",
+      "잡지 일러스트, SNS 이미지, 한 문장이 들어간 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "모든 사물과 배경을 남겨야 하는 사진: 대규모 단체 사진, 거리 파노라마",
+      "사실적인 비율이나 정밀한 묘사가 필요한 용도: 제품 사진, 증명사진",
+      "주인공과 글자를 모두 가운데 두는 고정 템플릿, 화면 가득한 글자, 어린이 다이어리 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مدونة تنسيق رسومات الحياة اليومية",
+    "tagline": "يحوّل شعوراً يومياً صغيراً إلى رسم لأسلوب الحياة واسع الفراغ، تتعاون فيه الصورة والكلمات.",
+    "look": "لا يبقى إلا أوضح عنصر ووضعيته وحكايته الصغيرة، مبسطاً في أشكال رمزية ذات شخصية، مرسوماً بخطوط ماركر مرتجفة متقطعة قليلاً، وملوناً بعفوية بالماركر أو الطباشير الشمعي أو الباستيل الزيتي، وقد يتجاوز اللون الخط ويترك بياضاً. لا يشغل الرسم إلا جزءاً صغيراً من الإطار، والباقي فراغ واسع مقصود. تُنسَّق الكلمات والصورة كوحدة واحدة: تأتي أولاً شبكة خفية ومسار قراءة، ثم يلتصق سطر قصير أكبر قليلاً وبضع كلمات صغيرة بمحيط العنصر، أو يتبع حركته، أو يحاذي الرأس أو الكتفين، أو يستقر في مساحة فارغة كبيرة، بدلاً من سطر في الوسط فوق شخصية في الوسط. الخط كتابة يدوية خفيفة طبيعية فيها تفاوت في ضغط القلم. تتحول ألوان الصورة إلى درجات ناعمة زاهية كالأصفر الكريمي والخوخي والمرجاني والأزرق السماوي والأخضر الطري واللافندر.",
+    "traits": [
+      "ماركر وطباشير ساذج",
+      "خطوط مرتجفة متقطعة",
+      "شبكة خفية",
+      "صورة ونص متكاملان",
+      "تنضيد تحريري ناضج",
+      "ألوان ناعمة حيوية وفراغ"
+    ],
+    "good": [
+      "صور شخص أو حيوان فيها شيء من المزاج والحركة: شخص يتمطّى، يدان تمسكان قهوة، كلب في منتصف قفزة",
+      "لحظات يومية من أسلوب الحياة: ركض الصباح، الطبخ، القراءة، الذهاب إلى العمل بالدراجة",
+      "صور تريدها رسماً لمجلة أو صورة لمنصات التواصل أو ملصقاً بسطر واحد من النص"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها كل شيء والخلفية: الصور الجماعية الكبيرة، بانوراما الشوارع",
+      "أعمال تحتاج إلى نِسب واقعية أو رسم دقيق: صور المنتجات، صور الهوية",
+      "طلب قالب ثابت بشخصية في الوسط وتعليق في الوسط، أو نص يملأ المساحة، أو مظهر مذكرات أطفال"
+    ]
+  }
+}
